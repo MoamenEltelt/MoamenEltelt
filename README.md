@@ -70,9 +70,28 @@ I enjoy learning, practicing programming, and building projects using Python.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoamenEltelt&show_icons=true&theme=github_dark_green&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoamenEltelt&layout=compact&theme=github_dark_green&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MoamenEltelt&theme=github-dark-green&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoamenEltelt&theme=github_dark_green" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoamenEltelt&theme=github-compact&color=2ea043&line=238636&point=2ea043&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+*"AI student with a strong interest in Machine Learning, Data Science, and building intelligent systems using Python."*
+
+
