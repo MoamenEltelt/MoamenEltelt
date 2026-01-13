@@ -1,57 +1,37 @@
-<div align="center">
+![Banner](banner.png)
+![Waving Hand](https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+👋)
+### 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="15%" />
+I’m a **Software Engineering student** with a strong interest in  
+**Artificial Intelligence & Machine Learning**.
 
-<h1>Hi, I'm Gen 👋</h1>
+I enjoy building intelligent systems, working with data,  
+and turning ideas into real projects using **Python** and ML tools.  
 
-<h3>AI / Machine Learning Engineer</h3>
+Currently learning, practicing, and preparing for  
+**internships and junior opportunities** 🚀
+### 🛠 Languages & Tools
 
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="45%" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,linux,mysql,sklearn,pytorch,tensorflow&perline=8" />
+</p>
+### 🚀 Skills
 
-<br><br>
+- Python Programming  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms  
+- Machine Learning Basics  
+- Linux & Git  
+- Problem Solving  
+### 📂 Projects
 
-<details>
-<summary><strong>Busy training models & vibing to 🎧</strong></summary>
+🚧 Projects are coming soon...  
+Currently working on Python & Machine Learning projects.
+### 📊 GitHub Stats
 
-![Spotify](https://spotify-readme.vercel.app/api/spotify)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+### 📫 Contact Me
 
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 About Me
-- 🤖 AI / Machine Learning enthusiast
-- 🧠 Interested in **Deep Learning, Computer Vision, NLP**
-- 📊 Love data, models & optimization
-- 🐧 Linux user & open-source lover
-
----
-
-## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-
----
-
-```python
-# tools_I_use organized
-
-class AboutMe:
-    def __init__(self):
-        self.skills = {
-            "Languages": ["Python", "C++", "Java"],
-            "ML": ["Scikit-learn", "TensorFlow", "PyTorch"],
-            "CV": ["OpenCV"],
-            "Data": ["Pandas", "NumPy", "Matplotlib"],
-            "Platforms": ["Linux", "Windows"],
-            "Tools": ["Git", "VS Code"]
-        }
+- 💼 LinkedIn: https://www.linkedin.com/in/USERNAME  
+- 📧 Email: momenahmedeltelt@gmail.com
